@@ -3,8 +3,8 @@ Um projeto interativo, que consiste em imagens, com descrições em forma de um 
 
 ## Podemos ver atraves dessa aprensentação como ele se comporta, a animação e a interação na troca das images/descrições:
 
-[<img src="./src/imagens/imagens readme/Animação tela casa do dragao.gif.gif">](https://slv-levi.github.io/Projeto-One-Piece/)
-<a href="https://slv-levi.github.io/Projeto-One-Piece/" target="_blank">link para a página.</a>
+[<img src="./src/imagens/imagens readme/Animação tela casa do dragao.gif">](https://slv-levi.github.io/projeto-a-casa-do-dragao/)
+<a href="https://slv-levi.github.io/projeto-a-casa-do-dragao/" target="_blank">link para a página.</a>
 
 ## Tecnologias utilizadas
 - HTML;
